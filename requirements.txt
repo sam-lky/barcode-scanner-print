@@ -1,0 +1,5 @@
+pyserial>=3.5
+pywin32>=300; sys_platform == 'win32'
+
+
+
